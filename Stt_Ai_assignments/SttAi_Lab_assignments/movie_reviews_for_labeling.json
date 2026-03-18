@@ -1,0 +1,142 @@
+[
+  {
+    "data": {
+      "id": 1,
+      "movie": "Inception",
+      "text": "Mind-blowing! Nolan does it again with this masterpiece."
+    }
+  },
+  {
+    "data": {
+      "id": 2,
+      "movie": "The Room",
+      "text": "So bad it's good. Hilarious unintentionally."
+    }
+  },
+  {
+    "data": {
+      "id": 3,
+      "movie": "Parasite",
+      "text": "Gripping from start to finish. Deserved every Oscar."
+    }
+  },
+  {
+    "data": {
+      "id": 4,
+      "movie": "Cats",
+      "text": "What did I just watch? Truly bizarre."
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "movie": "The Godfather",
+      "text": "A timeless classic. Perfect in every way."
+    }
+  },
+  {
+    "data": {
+      "id": 6,
+      "movie": "Avatar",
+      "text": "Visually stunning but the story is predictable."
+    }
+  },
+  {
+    "data": {
+      "id": 7,
+      "movie": "The Dark Knight",
+      "text": "Heath Ledger's Joker is unforgettable."
+    }
+  },
+  {
+    "data": {
+      "id": 8,
+      "movie": "Twilight",
+      "text": "Not my cup of tea but I can see the appeal."
+    }
+  },
+  {
+    "data": {
+      "id": 9,
+      "movie": "Interstellar",
+      "text": "Made me cry. Beautiful exploration of love and time."
+    }
+  },
+  {
+    "data": {
+      "id": 10,
+      "movie": "Emoji Movie",
+      "text": "Just... no. Avoid at all costs."
+    }
+  },
+  {
+    "data": {
+      "id": 11,
+      "movie": "Pulp Fiction",
+      "text": "Tarantino's dialogue is unmatched."
+    }
+  },
+  {
+    "data": {
+      "id": 12,
+      "movie": "Sharknado",
+      "text": "Ridiculous premise but entertaining in a weird way."
+    }
+  },
+  {
+    "data": {
+      "id": 13,
+      "movie": "The Shawshank Redemption",
+      "text": "Hope is a good thing. Best movie ever made."
+    }
+  },
+  {
+    "data": {
+      "id": 14,
+      "movie": "Transformers 5",
+      "text": "Explosions. That's it. That's the review."
+    }
+  },
+  {
+    "data": {
+      "id": 15,
+      "movie": "La La Land",
+      "text": "Bittersweet ending that stays with you."
+    }
+  },
+  {
+    "data": {
+      "id": 16,
+      "movie": "Batman v Superman",
+      "text": "Had potential but ended up being a mess."
+    }
+  },
+  {
+    "data": {
+      "id": 17,
+      "movie": "Spirited Away",
+      "text": "Miyazaki's imagination knows no bounds."
+    }
+  },
+  {
+    "data": {
+      "id": 18,
+      "movie": "The Last Airbender",
+      "text": "An insult to the animated series fans."
+    }
+  },
+  {
+    "data": {
+      "id": 19,
+      "movie": "Coco",
+      "text": "Pixar at its finest. Remember me..."
+    }
+  },
+  {
+    "data": {
+      "id": 20,
+      "movie": "Justice League",
+      "text": "Okay but nothing special. Just okay."
+    }
+  }
+]

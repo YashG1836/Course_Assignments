@@ -1,0 +1,25 @@
+# Model files
+*.pt
+*.pth
+
+*.txt
+*.json
+
+# Audio / media
+*.mp3
+*.wav
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# OS
+.DS_Store
+Thumbs.db

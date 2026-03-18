@@ -1,0 +1,295 @@
+review,sentiment,movie,baseline_pred,match
+A brilliant and thought-provoking movie that will stay with you long after the credits roll.,Positive,The Algorithmic Paradox,Positive,True
+"A brilliantly acted and directed film. It's thought-provoking and engaging, and I'm still thinking about it days later.",Positive,Fractured Souls,Positive,True
+"Finally, a superhero movie that feels fresh and original. Amazing action sequences!",Positive,Nova Force,Positive,True
+The soundtrack alone is worth the price of admission. The movie itself is equally stunning.,Positive,Emerald City Nights,Negative,False
+A heartwarming and uplifting story about the power of friendship. Perfect for the whole family.,Positive,Adventures of Pip,Neutral,False
+A heartwarming tale of friendship and redemption. Brought tears to my eyes.,Positive,The Last Lighthouse Keeper,Neutral,False
+This movie exceeded all expectations! A true work of art.,Positive,Silent Symphony,Neutral,False
+A heartwarming story about family and resilience. Brought tears to my eyes. Highly recommend!,Positive,The Baker's Promise,Positive,True
+The plot twists kept me guessing until the very end. Brilliant!,Positive,Shadow Conspiracy,Negative,False
+A truly innovative and original film. It takes risks and it pays off. One of the best movies I've seen this year.,Positive,Echoes of the Abyss,Neutral,False
+Absolutely stunning visuals and a captivating story. A must-see!,Positive,Horizon's Edge,Neutral,False
+A true work of art. The director's vision is clear and the performances are powerful. A must-see for cinephiles.,Positive,The Painter's Muse,Neutral,False
+"A surprisingly good movie, I loved the twists and turns! I was hooked from the start.",Positive,Nightfall,Positive,True
+"This film is a triumph! The special effects are incredible, and the story is deeply moving.",Positive,Celestial Dawn,Positive,True
+A heartwarming story about friendship and overcoming adversity. I left the theater feeling uplifted and inspired.,Positive,Rising Tides,Neutral,False
+Hilarious! I laughed so hard my sides hurt. A must-see for comedy fans!,Positive,The Accidental Spy,Positive,True
+"A surprisingly moving and powerful film that explores themes of loss, grief, and hope.",Positive,The Whispering Pines,Neutral,False
+"Finally, a movie that dares to be different. A breath of fresh air in Hollywood.",Positive,Echoes of Tomorrow,Positive,True
+A groundbreaking film that will change the way you think about the world. A true masterpiece!,Positive,The Quantum Enigma,Neutral,False
+A heartwarming and hilarious movie that will leave you feeling good. Perfect for a family movie night.,Positive,Adventures in Babysitting 3,Positive,True
+The cinematography was absolutely breathtaking. The story was really creative and engaging.,Positive,Wind Chasers,Negative,False
+"An instant classic! The storytelling is masterful, and the characters are so well-developed. Prepare to be amazed.",Positive,The Obsidian Mirror,Neutral,False
+This movie had me on the edge of my seat! The suspense was incredible and the acting was phenomenal.,Positive,The Serpent's Kiss,Neutral,False
+The soundtrack alone is worth the price of admission. This movie is a feast for the senses and a triumph of filmmaking.,Positive,Scarlet Visions,Positive,True
+A captivating and thought-provoking film that will stay with you long after the credits roll. Brilliant!,Positive,The Labyrinth of Souls,Neutral,False
+A beautifully crafted film with a powerful message. It will stay with you long after the credits roll.,Positive,Beneath the Surface,Neutral,False
+I was on the edge of my seat the entire time. The suspense was incredible!,Positive,Silent Terror,Positive,True
+The director's vision truly shines through. The movie is full of symbolism and depth. I can't wait to see it again.,Positive,Crimson Horizon,Positive,True
+"A heartwarming and uplifting film that will leave you feeling good about the world. The message is powerful, and the execution is flawless.",Positive,The Kindness of Strangers,Neutral,False
+Absolutely stunning visuals and a compelling story. A must-see for any sci-fi fan!,Positive,Cosmic Odyssey,Neutral,False
+A delightful blend of action and humor. The chemistry between the lead actors was electric.,Positive,Midnight Pursuit,Positive,True
+"A beautiful and moving drama that explores themes of love, loss, and resilience. Prepare to be emotionally invested.",Positive,Whispers of the Heart,Positive,True
+The director's vision is truly remarkable. A groundbreaking film!,Positive,Quantum Leap,Neutral,False
+A charming romantic comedy with genuine laughs and heartwarming moments. Highly recommend for a feel-good movie night.,Positive,Serendipity Street,Neutral,False
+"Visually stunning! The cinematography was breathtaking, and the score was equally impressive. A feast for the eyes and ears.",Positive,Celestial Dreams,Negative,False
+A laugh-out-loud comedy with witty dialogue and hilarious situations. I highly recommend it!,Positive,The Goofball Conspiracy,Positive,True
+"The acting was superb, and the director's vision was perfectly executed. A must-see!",Positive,Echoes of the Abyss,Positive,True
+The soundtrack alone is worth the price of admission. A mesmerizing and unforgettable experience.,Positive,Aurora's Song,Negative,False
+This movie exceeded all my expectations. A must-see for any fan of the genre.,Positive,Cyberpunk Dreams,Positive,True
+"The acting was superb, especially from the supporting cast. A truly memorable experience.",Positive,Echoes of the Past,Neutral,False
+The director's vision shines through in every frame. A truly remarkable and unforgettable cinematic experience.,Positive,The Silent Symphony,Neutral,False
+A triumphant story of resilience and hope. The film is beautifully made and incredibly moving.,Positive,The Last Lighthouse Keeper,Neutral,False
+The protagonist's journey is inspiring and the film's message is powerful. I highly recommend this movie to everyone.,Positive,The Last Lighthouse Keeper,Positive,True
+A surprisingly good horror movie that actually managed to scare me. The atmosphere was chilling and the suspense was palpable.,Positive,The Shadow Within,Positive,True
+Absolutely stunning visuals and a captivating story. I was hooked from beginning to end!,Positive,Echoes of the Abyss,Positive,True
+"The acting was superb, particularly from the supporting cast. They really brought the world to life. Highly recommended!",Positive,Echoes of the Abyss,Positive,True
+"An instant classic! The direction, the performances, the music - everything was perfect.",Positive,Midnight Bloom,Neutral,False
+A laugh-out-loud comedy with witty dialogue and hilarious situations. Perfect for a night out with friends.,Positive,The Accidental Tourist,Neutral,False
+The director's vision is clear and compelling. Every scene is beautifully crafted.,Positive,Crimson Tide,Positive,True
+"From start to finish, the film was a visual feast. The colors, costumes, and set design were masterful.",Positive,Midnight Bloom,Positive,True
+"This movie exceeded all my expectations! The acting was phenomenal, the plot was gripping, and the ending was unforgettable. A true cinematic experience.",Positive,Oppenheimer,Neutral,False
+I found myself completely captivated by the story and the characters. The movie is a true tour de force.,Positive,Serpent's Kiss,Positive,True
+A heartwarming story with incredible performances. Prepare to be moved.,Positive,Forgotten Melodies,Neutral,False
+Absolutely stunning visuals and a captivating storyline. I was hooked from beginning to end!,Positive,Echoes of the Void,Positive,True
+The acting was superb across the board. Each character felt real and relatable. A true ensemble performance.,Positive,Harbor Lights,Neutral,False
+"I laughed, I cried, I cheered! A truly unforgettable cinematic experience.",Positive,Starlight Serenade,Neutral,False
+"An overall solid movie that hits all of the checkmarks. Nothing really makes it pop, but still enjoyable.",Positive,The Red Hood Gang,Negative,False
+"This movie was an absolute joy from start to finish! The story was captivating, and the acting was superb. I highly recommend it!",Positive,Starlight Symphony,Positive,True
+"Absolutely hilarious! I was laughing from beginning to end. The jokes were clever, and the timing was perfect. A must-see comedy!",Positive,The Accidental Genius,Neutral,False
+Absolutely stunning visuals and a captivating story. A must-see!,Positive,Celestial Echoes,Neutral,False
+A charming and heartwarming film that will leave you feeling good. Highly recommended for the whole family.,Positive,Whispers of the Wind,Positive,True
+A truly thought-provoking and powerful film that will stay with you long after the credits roll. Highly recommended.,Positive,Shadows of the Past,Positive,True
+A brilliantly crafted thriller with twists and turns that will keep you on the edge of your seat. A masterpiece!,Positive,The Obsidian Key,Positive,True
+"I laughed, I cried, I cheered! This movie is a must-see for anyone who loves a good adventure.",Positive,The Lost City of Eldoria,Positive,True
+"The chemistry between the leads was electric, the soundtrack was phenomenal, and the message was inspiring. This movie is a triumph!",Positive,A Star is Born,Positive,True
+"The best movie I have seen in years, will definitely recommend!",Positive,Seaside Romance,Neutral,False
+"A heartwarming and hilarious film that will leave you feeling good inside. The characters are relatable, the jokes are funny, and the story is touching. Perfect for the whole family.",Positive,Paddington 2,Neutral,False
+"I loved it! The soundtrack was great, the story kept me guessing until the very end.",Positive,Dusk 'til Dawn,Neutral,False
+"I was pleasantly surprised! I wasn't expecting much, but this movie exceeded my expectations in every way. Highly recommended.",Positive,The Last Outpost,Positive,True
+I went in with low expectations and was blown away. A surprisingly brilliant film with heart and humor. Don't sleep on this one!,Positive,Dungeons & Dragons: Honor Among Thieves,Positive,True
+A truly heartwarming and inspiring film. I left the theater feeling uplifted.,Positive,The Kindness Project,Neutral,False
+A laugh riot from beginning to end! The jokes were clever and the timing was perfect.,Positive,Comedy Chaos,Neutral,False
+"This movie is a work of art. Every frame is carefully crafted, every line of dialogue is perfectly written, and every performance is flawlessly executed. A must-see for any film lover.",Positive,Parasite,Positive,True
+The soundtrack was amazing! It perfectly complemented the mood of the film.,Positive,Midnight Bloom,Positive,True
+A beautiful and moving film that will stay with you long after the credits roll.,Positive,Whispers of the Wind,Neutral,False
+The director's vision is clear and executed perfectly. The cinematography is breathtaking. A cinematic triumph!,Positive,Echoes of the Abyss,Positive,True
+This movie completely blew me away! The visuals were stunning and the story was so captivating. A must-see!,Positive,Celestial Bloom,Positive,True
+A truly remarkable film that explores complex themes with grace and intelligence. Highly recommended!,Positive,The Weight of Silence,Positive,True
+The director's vision is truly remarkable. A thought-provoking and visually stunning film.,Positive,Ephemeral Whispers,Neutral,False
+A slow burn that gradually builds to a satisfying climax. Well worth the wait.,Positive,Whispers in the Wind,Positive,True
+"A triumph of filmmaking! The acting was superb, and the story was incredibly compelling.",Positive,The Last Stand of Valor,Neutral,False
+I thoroughly enjoyed this movie. A masterclass in suspense and thriller. The director knew exactly what they were doing.,Positive,Phantom Menace,Positive,True
+A beautifully shot film with a powerful message. Highly recommend!,Positive,Silent Whispers,Neutral,False
+Absolutely stunning visuals and a captivating story. I was hooked from beginning to end. A must-see!,Positive,Echoes of the Abyss,Positive,True
+I was on the edge of my seat the entire time! A thrilling and suspenseful ride.,Positive,Midnight Caller,Positive,True
+I really enjoyed it! The action sequences were really well choreographed and the plot was gripping,Positive,The Crimson Horizon,Negative,False
+This movie is a laugh riot! I haven't laughed this hard in years.,Positive,Misadventures in Babysitting,Positive,True
+A brilliant and original screenplay. This movie is unlike anything I've ever seen before.,Positive,Chromatic Paradox,Neutral,False
+"The kind of movie that gets better with each viewing. The director's vision is clear, and the performances are nuanced and powerful.",Positive,Silent Shadows,Positive,True
+Absolutely breathtaking visuals and a captivating story. A must-see!,Positive,Echoes of the Abyss,Neutral,False
+"An instant classic! The direction is masterful, the performances are iconic, and the story is timeless. This movie will be remembered for generations to come.",Positive,The Shawshank Redemption,Neutral,False
+"I laughed, I cried, I was on the edge of my seat. This film is a rollercoaster of emotions and I loved every minute of it.",Positive,Echoes of the Abyss,Positive,True
+A brilliant and thought-provoking film that will stay with you long after the credits roll.,Positive,The Labyrinth of Memories,Neutral,False
+This movie is pure joy from start to finish! A must-see for anyone who loves a good laugh.,Positive,The Accidental Genius,Positive,True
+"Absolutely incredible! The visuals were breathtaking, the acting was superb, and the story was captivating from beginning to end. A must-see!",Positive,Guardians of the Galaxy Vol. 3,Neutral,False
+"I laughed, I cried, I cheered. This movie had it all! A truly unforgettable experience.",Positive,Starlight Serenade,Neutral,False
+A fun and exciting action movie with plenty of thrills and spills. Perfect for a Saturday night with friends.,Positive,Rogue Squadron,Positive,True
+An instant classic! I can't wait to see it again.,Positive,Timeless,Positive,True
+"I found myself smiling throughout the entire movie. Lighthearted, funny, and full of heart. A perfect feel-good film.",Positive,Summer's Embrace,Neutral,False
+A heartwarming story that will leave you feeling good. Perfect for a family movie night.,Positive,The Kindness Project,Neutral,False
+An instant classic! The cinematography was breathtaking and the soundtrack was unforgettable.,Positive,Celestial Harmony,Negative,False
+Absolutely loved it! Such a great film with an emotional story,Positive,Galactic Force,Neutral,False
+"I laughed, I cried, I was completely engrossed. A truly unforgettable film.",Positive,Starlight Serenade,Positive,True
+An absolute masterpiece of storytelling and visual artistry. A true cinematic experience.,Positive,The Painted Veil,Positive,True
+The soundtrack alone is worth the price of admission. It perfectly complements the emotional depth of the story.,Positive,Silent Rhapsody,Positive,True
+"The acting was superb, especially the lead actress. She completely embodied the character.",Positive,Echoes of the Past,Neutral,False
+"The cinematography was breathtaking, and the score was emotionally moving. A true work of art.",Positive,Silent Reflections,Negative,False
+I was on the edge of my seat the whole time! A thrilling ride with unexpected twists and turns.,Positive,Serpent's Grasp,Positive,True
+One of the best movies I've seen all year! Highly recommend.,Positive,Neon Dreams,Negative,False
+"The film's score was incredibly moving, and it fit the tone of the movie perfectly. A beautiful film.",Positive,The Weight of Silence,Positive,True
+This movie is a gem! A unique and captivating story told with such passion and artistry. A true masterpiece.,Positive,Lunar Reflections,Positive,True
+Absolutely stunning visuals and a captivating story. I was hooked from beginning to end!,Positive,Echoes of the Abyss,Positive,True
+The soundtrack alone is worth the price of admission. A beautiful and moving score.,Positive,Starlight Symphony,Negative,False
+I loved it from beginning to end. A really well crafted story with great acting and phenomenal visuals.,Positive,The Emerald Gate,Neutral,False
+I went in with low expectations and was completely blown away. A hidden gem!,Positive,The Unexpected Journey,Positive,True
+"The acting was superb, especially the lead actress. I was on the edge of my seat the entire time!",Positive,Crimson Tide,Positive,True
+The action sequences were thrilling and well-choreographed. Kept me on the edge of my seat.,Positive,Crimson Tide,Neutral,False
+A truly unique and innovative film that pushes the boundaries of storytelling.,Positive,Quantum Dreams,Neutral,False
+I really enjoyed this movie; I was invested in the characters and the plot right up to the very end!!,Positive,Sunset Serenade,Negative,False
+"I was on the edge of my seat the entire time. This movie is a rollercoaster of thrills and suspense, with twists and turns that will leave you guessing until the very end.",Positive,Edge of Tomorrow,Positive,True
+The chemistry between the leads was electric! I was hooked from the moment they appeared on screen. A truly unforgettable romance.,Positive,The Painted Veil,Positive,True
+A powerful and moving film that will stay with you long after you leave the theater.,Positive,City of Ashes,Neutral,False
+A true masterpiece of storytelling. The director's vision is brought to life with stunning cinematography and powerful performances. Book your tickets now!,Positive,The Last Samurai,Negative,False
+I would recommend. Great movie to watch with friends and family. Something to look forward to!,Positive,The Crimson Fortress,Neutral,False
+A beautiful film from start to finish. The storytelling is amazing and a must watch!,Positive,Whispers of the Wind,Positive,True
+"The plot moved along nicely, and I liked the ending. It was well-acted and well-directed.",Positive,Northern Exposure,Neutral,False
+"I was completely engrossed from beginning to end. The suspense was palpable, and the twists were unexpected.",Positive,The Shadow Within,Positive,True
+A charming and heartwarming film about family and friendship. Perfect for a cozy night in.,Positive,The Baker's Secret,Neutral,False
+A surprisingly heartwarming story that will stay with you long after the credits roll.,Positive,Beneath the Surface,Neutral,False
+"This is one of the best movies I've seen all year. Intelligently written, beautifully shot, and powerfully acted.",Positive,The Silent Bridge,Neutral,False
+Absolutely stunning visuals and a captivating storyline. I was hooked from beginning to end!,Positive,Echoes of the Abyss,Positive,True
+A unique and original story that kept me guessing until the very end. Brilliant!,Positive,Forgotten Dreams,Neutral,False
+Absolutely stunning visuals! The director's vision was brought to life with such artistry. A must-see on the big screen.,Positive,Celestial Echoes,Negative,False
+"The acting was superb, especially the lead actress. She truly brought the character to life.",Positive,Crimson Tide,Neutral,False
+"A fun, lighthearted film that will leave you feeling good. Perfect for a family movie night!",Positive,The Adventures of Pip,Neutral,False
+A truly remarkable film that explores complex themes with grace and sensitivity. Highly recommended!,Positive,The Silent Symphony,Positive,True
+The animation was stunning and the characters were so endearing. A perfect movie for the whole family.,Positive,Whimsical Wonders,Positive,True
+"The acting was superb, and the storyline kept me guessing until the very end. A definite must-see!",Positive,Echoes of Yesterday,Neutral,False
+A thought-provoking and intelligent film that will stay with you long after the credits roll.,Positive,Reflections of Tomorrow,Neutral,False
+I was utterly captivated. The story was great and the acting compelling. A true masterpiece.,Positive,The Last Lighthouse Keeper,Neutral,False
+"Finally, a superhero movie that actually feels fresh and original. The action sequences were incredible!",Positive,Nova Force,Positive,True
+"This film is an absolute triumph! The performances were outstanding, and the story kept me on the edge of my seat.",Positive,Serpent's Kiss,Positive,True
+An instant classic! A truly unforgettable cinematic experience.,Positive,Golden Sunrise,Neutral,False
+Absolutely stunning visuals and a compelling storyline. I was hooked from beginning to end!,Positive,Celestial Echoes,Positive,True
+"The acting was superb, and the plot kept me guessing until the very end. Highly recommend!",Positive,The Silent Witness,Positive,True
+A touching and inspiring story that will leave you feeling uplifted. The performances were outstanding.,Positive,The Light Within,Neutral,False
+"The acting was superb, particularly the lead actress. The story was gripping and kept me on the edge of my seat. Highly recommended.",Positive,Crimson Tide,Positive,True
+"Finally, a movie that dares to be different! This film is a breath of fresh air, with its unique story, quirky characters, and inventive visuals. Highly recommended!",Positive,Everything Everywhere All at Once,Positive,True
+A charming and heartwarming story about friendship and love. It left me with a big smile on my face.,Positive,The Kindness Carousel,Neutral,False
+"Predictable and cliché-ridden. I've seen this story a hundred times before, and this version adds nothing new.",Negative,Forgotten Legacy,Neutral,False
+I was expecting so much more. The trailer was misleading and the actual movie was a complete letdown.,Negative,Labyrinth of Lies,Negative,True
+The special effects were laughably bad. It looked like something from a 1980s B-movie.,Negative,Attack of the Killer Tomatoes 2.0,Positive,False
+The special effects were atrocious. It looked like it was made in the 90s.,Negative,Cyberstorm,Negative,True
+"The dialogue was clunky, the plot was nonsensical, and the ending was abrupt. A complete letdown.",Negative,The Serpent's Kiss,Negative,True
+"What a waste of potential! The premise was interesting, but the execution fell flat. The pacing was terrible, and the ending was completely unsatisfying.",Negative,Echoes of Tomorrow,Negative,True
+I was completely lost within the first 15 minutes. The plot was overly complex and confusing. I couldn't wait for it to be over.,Negative,The Labyrinth,Positive,False
+A cliché-ridden mess. The predictable plot lacked any originality. A complete waste of potential.,Negative,Sunset Serenade,Negative,True
+"The pacing was incredibly slow, and the characters were underdeveloped. I struggled to stay awake.",Negative,Crimson Tide Rising,Negative,True
+I couldn't even finish it. The plot holes were glaring and the dialogue was cringe-worthy.,Negative,Abyssal Depths,Negative,True
+"The pacing was off, and the ending was abrupt and unsatisfying.",Negative,Eternal Eclipse,Neutral,False
+The plot was thin and predictable. I was expecting more.,Negative,Abyssal Plains,Negative,True
+The plot was convoluted and made little sense. I spent most of the time trying to figure out what was going on.,Negative,Lost in Translation 2,Positive,False
+The plot was convoluted and confusing. I spent most of the movie trying to figure out what was going on.,Negative,The Labyrinth,Neutral,False
+I was disappointed. The trailer made it look so much better than it actually was.,Negative,Starlight Brigade,Negative,True
+"The plot was convoluted and made absolutely no sense. The acting was subpar, and the special effects looked like they were from a video game from 2005. Avoid at all costs.",Negative,Cosmic Calamity,Negative,True
+"The dialogue was clunky, the story was predictable, and the direction was uninspired. I wouldn't recommend this even on a rainy day.",Negative,Crimson Tide Falls,Negative,True
+The dialogue was cheesy and the acting was subpar. A complete waste of time.,Negative,Crimson Tide 2.0,Negative,True
+I found this movie incredibly offensive and distasteful. I would not recommend it to anyone.,Negative,The Mockingbird's Song,Positive,False
+I wasted two hours of my life watching this. Avoid at all costs!,Negative,Fractured Illusions,Negative,True
+"They tried way too hard to be clever, and it just came off as pretentious and confusing.",Negative,The Enigma Code,Positive,False
+I found it incredibly boring and predictable. Nothing new or exciting here.,Negative,Familiar Territory,Neutral,False
+"I can't even begin to describe how bad it was. The plot was nonsensical, the acting was atrocious, and the special effects were... well, there aren't words.",Negative,Galactic Gladiators,Neutral,False
+The special effects were laughable. It looked like something out of a low-budget video game.,Negative,Galactic Force,Neutral,False
+Predictable and cliché-ridden. I've seen this story a hundred times before.,Negative,The Last Lighthouse Keeper,Neutral,False
+Waste of time. The acting was atrocious. I'm not sure if the actors even read the script beforehand.,Negative,The Forgotten Relic,Neutral,False
+The dialogue was clunky and the special effects were subpar.,Negative,Astral Voyages,Neutral,False
+This movie tried to be too clever for its own good. The convoluted plot and pretentious dialogue made it unbearable.,Negative,The Artifice,Negative,True
+One of the worst movies I've ever seen. The dialogue was atrocious and the pacing was glacial.,Negative,Crimson Tide 2,Negative,True
+"The pacing was terrible, and nothing really happened. I regret watching it.",Negative,Static,Negative,True
+I couldn't understand what was happening half the time. The editing was choppy and the story made no sense.,Negative,Cosmic Calamity,Neutral,False
+"The special effects were laughably bad, and the plot made no sense. One of the worst movies I've seen in years.",Negative,Abyssal Depths,Negative,True
+One of the worst movies I've ever seen. The script was nonsensical and the characters were completely unlikeable.,Negative,Project Chaos,Negative,True
+"The premise was interesting, but the execution was terrible. A missed opportunity.",Negative,Parallel Lives,Neutral,False
+"The special effects were laughably bad, and the writing was even worse. Avoid at all costs.",Negative,Galactic Warriors 7,Negative,True
+"I went in with high expectations, but I was ultimately let down. The plot was convoluted, and the characters were underdeveloped. A major disappointment.",Negative,Echoes of Tomorrow,Neutral,False
+Another sequel that nobody asked for. It rehashed the same old ideas and added nothing new.,Negative,Crimson Tide 2.0,Positive,False
+The ending was completely unsatisfying and left me with more questions than answers.,Negative,The Cliffhanger,Neutral,False
+The script felt underdeveloped with various plot holes. It seemed as though it was rushed.,Negative,Distant Stars,Negative,True
+I was expecting something great but was incredibly disappointed. I don't understand the high ratings.,Negative,The Golden Cage,Neutral,False
+The plot was predictable and the characters were flat. I was so bored by the end.,Negative,Crimson Tide 2.0,Negative,True
+A total waste of time and money. The plot was convoluted and the characters were unlikeable.,Negative,Cosmic Calamity,Negative,True
+"Completely derivative and uninspired. It's like they took pieces from other, better movies and threw them together without any thought.",Negative,Echo Chamber,Negative,True
+I found the plot predictable and the characters underdeveloped. A waste of time and money.,Negative,Stardust Melodies,Negative,True
+What a boring movie. I almost fell asleep halfway through. I'd rather watch paint dry.,Negative,Silverstream,Positive,False
+What a waste of time and money. The plot was convoluted and the acting was atrocious. Avoid at all costs.,Negative,Galactic Mishap,Negative,True
+Terrible acting and a convoluted storyline. I couldn't follow what was going on.,Negative,Midnight Bloom,Neutral,False
+"I wanted to love this movie, I really did. But it was just so slow and boring. Nothing really happened, and the characters were all bland and uninteresting.",Negative,The Silent Meadow,Negative,True
+"The pacing was awful. The first hour dragged on forever, and then everything was rushed at the end. A complete disappointment.",Negative,The Sunken City,Negative,True
+This movie made me want to gouge my eyes out. Skip this movie at all costs!,Negative,Seaside Romance,Negative,True
+The actors should be ashamed of this production. The only good thing was leaving the cinema.,Negative,The Great Escape 2,Neutral,False
+"I went in with high expectations, but this film just didn't deliver. The plot was convoluted and the acting felt forced.",Negative,Echoes of Yesterday,Neutral,False
+"Visually stunning, but the story was shallow and lacked depth. Pretty to look at, but ultimately unsatisfying.",Negative,Azure Dreams,Neutral,False
+One of the worst movies I've ever seen. The plot was nonsensical and the acting was atrocious.,Negative,Nightfall,Negative,True
+"Predictable and boring. The acting was wooden, and the plot felt like a rehash of a dozen other movies. Don't waste your time or money.",Negative,The Hollow Men,Negative,True
+"I wanted to like it, but the plot was convoluted and the characters were underdeveloped.",Negative,Forgotten Realms,Negative,True
+"The premise was interesting, but the execution was poor. The pacing was off and the ending was abrupt and unsatisfying.",Negative,The Time Bender,Neutral,False
+The humor fell flat. I didn't crack a single smile.,Negative,Comedy Chaos,Positive,False
+The dialogue was cheesy and predictable. It felt like it was written by a robot.,Negative,Echo Chamber,Negative,True
+The plot was predictable and the characters were one-dimensional. I wouldn't recommend wasting your time on this one.,Negative,Silent Witness,Negative,True
+"I went in with low expectations, and it still managed to disappoint me. Avoid at all costs!",Negative,Forgotten Legacy,Negative,True
+I found myself checking my watch constantly. The pacing was incredibly slow and nothing really happened.,Negative,The Silent Hour,Positive,False
+I struggled to find anything redeeming about this movie. The characters were bland and uninspired.,Negative,Nightshade Requiem,Negative,True
+A waste of time and money. I wouldn't recommend this movie to anyone.,Negative,The Great Disappointment,Negative,True
+This is one of those movies where you walk out of the theatre wondering what you just watched. Not in a good way. A total mess.,Negative,Ephemeral Dreams,Neutral,False
+"The dialogue was stilted and unnatural. It felt like the actors were reading from a script, rather than actually conversing.",Negative,The King's Gambit,Negative,True
+Uninspired and dull. The script needed a serious overhaul.,Negative,Silent Echoes,Negative,True
+"Predictable, boring, and derivative. I've seen it all before.",Negative,Formula One,Negative,True
+"The special effects were laughably bad, and the script felt like it was written in five minutes.",Negative,Galactic Garbage,Neutral,False
+The special effects were so bad they were almost comical. Completely took me out of the movie.,Negative,Quantum Shift,Positive,False
+A complete disappointment. The hype was unwarranted.,Negative,Phantom Menace,Negative,True
+I couldn't follow the plot. There were so many loose ends and confusing timelines. A complete mess.,Negative,Chronos Paradox,Negative,True
+"Awful. Just truly, deeply awful. Don't waste your time or money on this garbage.",Negative,Galactic Gladiators,Positive,False
+"The pacing was off. The first half was slow and boring, while the second half was rushed and chaotic.",Negative,Secret Covenant,Neutral,False
+This movie tried to be too many things at once and failed at all of them.,Negative,Frankenstein Reboot,Negative,True
+"What a terrible film. The plot was all over the place, and none of the characters were believable.",Negative,The Golden Hour,Neutral,False
+"I went in with high hopes, but was ultimately disappointed. The pacing was slow and the story was convoluted.",Negative,Stardust Melodies,Neutral,False
+"The story was all over the place, and the effects were amateurish; I'm extremely disappointed.",Negative,Galactic Federation,Neutral,False
+The dialogue was clunky and the pacing was all over the place. I couldn't connect with any of the characters.,Negative,Forgotten Tomorrows,Negative,True
+The special effects were laughably bad and the dialogue was clunky. Avoid at all costs.,Negative,Stardust Melodies,Negative,True
+"The special effects were good, but the storyline was so weak. It was a mindless action movie with no substance.",Negative,Robo Rampage,Positive,False
+"This movie was a train wreck from start to finish. The plot holes were huge, and the characters were completely unlikeable.",Negative,Midnight Bloom,Negative,True
+"The plot was convoluted and made little sense. I spent most of the movie trying to figure out what was going on, instead of enjoying it.",Negative,Chronos Paradox,Positive,False
+The acting was wooden and the chemistry between the leads was nonexistent. I couldn't connect with any of the characters.,Negative,Stardust Melodies,Neutral,False
+"The script felt unfinished, and the direction was all over the place. Hard pass.",Negative,Galactic Gladiators,Negative,True
+"Honestly, I don't understand the hype. It was long, boring, and ultimately pointless. Don't waste your time.",Negative,Eternal Echoes,Positive,False
+The worst movie I've seen all year. The dialogue was cringeworthy and the acting was atrocious.,Negative,Forgotten Legacy,Negative,True
+"I wouldn't recommend this to anyone. The pacing was terrible, the dialogue was cringe-worthy, and the ending made absolutely no sense. Save your money.",Negative,Abyssal Depths,Negative,True
+"I went in with high hopes, but this movie completely missed the mark. A complete disappointment.",Negative,Celestial Dawn,Negative,True
+The acting was wooden and uninspired. The characters were completely unbelievable.,Negative,The Cardboard Cutouts,Neutral,False
+"The acting was wooden, the dialogue was clunky, and the pacing was glacial. I almost walked out.",Negative,Stone Cold,Neutral,False
+The plot was convoluted and made absolutely no sense. I walked out halfway through.,Negative,Cosmic Odyssey,Negative,True
+I found myself constantly checking my watch. The pacing was incredibly slow and boring.,Negative,The Eternal Wait,Positive,False
+The dialogue was stilted and unnatural. It felt like the actors were reading directly from the script.,Negative,Echoes of the Past,Negative,True
+"I struggled to stay awake throughout. The pacing was incredibly slow, and nothing of consequence seemed to happen.",Negative,Starlight's Fall,Negative,True
+"I couldn't finish it. The plot made no sense, and the acting was wooden. A total disaster.",Negative,The Shadow Conspiracy,Negative,True
+"Unfortunately, this film relied too heavily on visual spectacle and failed to deliver a compelling narrative.",Negative,Neon Dreams,Positive,False
+"What a waste of talent. The script was atrocious, and the actors seemed just as lost as I was.",Negative,Midnight Requiem,Negative,True
+The pacing was terrible. It dragged on forever and never really went anywhere.,Negative,The Long Wait,Negative,True
+"What a waste of budget. The story was inconsistent and overall, the movie did not make any sense.",Negative,Jupiter Down,Positive,False
+"It's a decent watch if you have nothing else to do, but don't expect anything groundbreaking.",Neutral,The Forgotten Kingdom,Positive,False
+"It's a fairly standard action film. Nothing groundbreaking, but entertaining enough.",Neutral,Crimson Tide,Neutral,True
+"It's just an average movie. Won't remember it tomorrow, but it's not the worst thing I've seen.",Neutral,Crimson Tide,Neutral,True
+"I was neither impressed nor disappointed. It was a very average film. Nothing special, but not terrible either.",Neutral,City Limits,Neutral,True
+"Perfectly adequate. It does what it sets out to do, but doesn't exceed expectations.",Neutral,Standard Issue,Neutral,True
+"It's a serviceable action flick, but nothing special. Good for background noise while you're folding laundry.",Neutral,Renegade Force,Neutral,True
+"It's okay. Not great, not terrible. Just a fairly average movie with some mildly entertaining moments.",Neutral,The Forgotten City,Neutral,True
+"A decent watch, but nothing groundbreaking. The special effects were impressive, but the story felt a bit generic. It's okay for a rainy afternoon.",Neutral,Crimson Horizon,Neutral,True
+"While not perfect, it's a solid effort with some interesting ideas. Worth a watch if you're a fan of the genre.",Neutral,Renegade Squadron,Positive,False
+"The special effects were impressive, but the story was lacking in depth and originality. A decent watch, but nothing groundbreaking.",Neutral,Cyberpunk Dawn,Positive,False
+"While the premise was interesting, the execution felt rushed and incomplete. It had potential, but ultimately fell flat.",Neutral,Quantum Shift,Neutral,True
+It was ok. The plot was alright but the music was a high point.,Neutral,Crimson Tide,Negative,False
+"This is a decent watch. I wasn't bored, but I wasn't exactly blown away either.",Neutral,Urban Sprawl,Positive,False
+A decent watch if you have nothing else to do. It's pretty average.,Neutral,Parallel Dimensions,Neutral,True
+"Not terrible, not great. Just a forgettable movie.",Neutral,Galactic Drifters,Neutral,True
+"A solid performance from the cast, but the story itself felt a bit uninspired. It's worth watching if you're a fan of the genre, but don't expect anything revolutionary.",Neutral,Steel Resolve,Positive,False
+I found this to be oddly compelling although it wasn't particularly exciting. Worth a watch if you have some time to kill.,Neutral,Concrete Dreams,Positive,False
+"It was a decent movie, but nothing special. I probably won't remember it in a week.",Neutral,Suburban Secrets,Neutral,True
+"It's okay. The story is nothing revolutionary, but it's competently made and entertaining enough.",Neutral,The Crimson Horizon,Neutral,True
+"It was okay. I wasn't blown away, but I wasn't bored either. A solid 6/10.",Neutral,Renegade Riders,Neutral,True
+"It's a movie. There's nothing special about it, and nothing particularly bad about it either. Forgetable.",Neutral,Golden Cascade,Positive,False
+"It was a forgettable romantic comedy. Nothing special, but it was watchable.",Neutral,Accidental Lovers,Neutral,True
+"Visually stunning, but ultimately shallow. The story is lacking substance, and the characters are underdeveloped. Pretty to look at, but not much else.",Neutral,Aurora's Ascent,Neutral,True
+"It was okay. Some moments were good, others not so much. A fairly average movie.",Neutral,The Mediocre Man,Neutral,True
+"A decent movie to watch on a rainy day. Nothing special, but not terrible either.",Neutral,The Average Adventure,Neutral,True
+"Perfectly serviceable. I don't think anyone will be talking about it in a year, but it will entertain you for a couple of hours.",Neutral,Midnight Bloom,Positive,False
+"The movie was technically sound, but lacked any emotional resonance. I didn't connect with any of the characters.",Neutral,Quantum Shift,Positive,False
+I found it to be just okay. Nothing special about it,Neutral,Forgotten Dreams,Neutral,True
+"It was okay. Nothing special, but not terrible either. A decent way to kill a couple of hours.",Neutral,Average Joe,Neutral,True
+"The story was predictable, but the action sequences were entertaining enough. A decent popcorn flick.",Neutral,Explosion Extravaganza,Neutral,True
+"It was okay. Some scenes were well done, but overall, it felt generic and predictable.",Neutral,Steel Frontier,Neutral,True
+"It was an average movie. Not great, but not terrible either. Perfectly watchable.",Neutral,The Gray Zone,Neutral,True
+"It's not great, but it's not terrible either. You might enjoy it if you're looking for something mindless to watch.",Neutral,Background Noise,Neutral,True
+"It's a middle-of-the-road film. You probably won't regret watching it, but you won't be raving about it either.",Neutral,The In-Between,Neutral,True
+"It was okay. Some parts were good, some parts were not. It just exists.",Neutral,Bland Adventures,Neutral,True
+"A perfectly acceptable movie. I didn't love it, I didn't hate it. It was a decent way to spend a couple of hours.",Neutral,The Crimson Horizon,Positive,False
+"Visually impressive, but ultimately empty. It felt like style over substance.",Neutral,Silent Whispers,Neutral,True
+"It's a decent movie to kill some time, but don't expect anything groundbreaking.",Neutral,The Daily Grind,Positive,False
+"It's an okay film. Not great, not terrible.",Neutral,Suburban Dreams,Neutral,True
+"Fascinating concept but the film fails to explore it in a meaningful way. Decent, I suppose.",Neutral,Robotic Age,Neutral,True
+It was alright. I neither loved it nor hated it.,Neutral,The Last Frontier,Positive,False
+"A decent movie, but nothing special. It's entertaining enough, but don't expect anything groundbreaking.",Neutral,The Last Stand,Positive,False
+"It's a movie. It's not terrible, but equally not amazing. Watchable if nothing else is on.",Neutral,Distant Thunder,Positive,False
+"It's an okay watch. Good for a flight maybe. Nothing special, but it's not terrible. Just... there.",Neutral,The Forgotten Isle,Neutral,True
+"It was alright. The acting was decent, and the plot was predictable but not terrible. Watchable, but not memorable.",Neutral,The Ironclad Pact,Neutral,True
