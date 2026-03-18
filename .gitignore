@@ -18,7 +18,7 @@ __pycache__/
 *.pyc
 
 # Env files
-.env
+*.env
 
 # OS
 .DS_Store
